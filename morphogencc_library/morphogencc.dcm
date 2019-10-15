@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RJ45-SMT
+D Modular Connectors / Ethernet Connectors RJ45;8 contacts;sh RA TH;SMT w/out LEDs
+F https://signin.amphenolcanada.com/ProductSearch/drawings/ac/rjcsex38x01x.pdf
+$ENDCMP
+#
 #End Doc Library
