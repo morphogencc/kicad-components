@@ -1,5 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CREE_RGB
+D RGB LED, 6 pin package
+K LED RGB diode
+F ~
+$ENDCMP
+#
+$CMP MC33269D-5.0G
+D Voltage regulator,MC33269D5.0 MC33269D-5.0G, Low Dropout Voltage Regulator, 0.8A 5 V, +/-1%, 8-Pin, SOIC
+F https://componentsearchengine.com/Datasheets/1/MC33269D-5.0G.pdf
+$ENDCMP
+#
+$CMP MC33269DT-5.0G
+D 800mA,5V,LDO Voltage Reg.,MC33269DT-5.0 MC33269DT-5.0G, Low Dropout Voltage Regulator, 0.8A, 5 V +/-1%, 3-Pin DPAK
+F https://componentsearchengine.com/Datasheets/1/MC33269DT-5.0G.pdf
+$ENDCMP
+#
 $CMP RJ45-SMT
 D Modular Connectors / Ethernet Connectors RJ45;8 contacts;sh RA TH;SMT w/out LEDs
 F https://signin.amphenolcanada.com/ProductSearch/drawings/ac/rjcsex38x01x.pdf
